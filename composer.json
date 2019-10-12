@@ -1,6 +1,12 @@
 {
   "name": "gutenisse/packagist-test",
   "description": "This is a test project...",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Juri Salminen",
+    }
+  ],
   "require": {
     "php": "^7.2"
   }

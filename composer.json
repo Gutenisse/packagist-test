@@ -1,5 +1,5 @@
 {
-  "name": "Gutenisse/packagist-test",
+  "name": "gutenisse/packagist-test",
   "description": "This is a test project...",
   "require": {
     "php": "^7.2"

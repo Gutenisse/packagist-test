@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Gutenisse\Packagist;
+namespace Gutenisse;
 
 
 class Packagist
@@ -13,6 +13,6 @@ class Packagist
 	
 	public static function version()
 	{
-		return "1.0.3";
+		return "1.0.8";
 	}
 }

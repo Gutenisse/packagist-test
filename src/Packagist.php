@@ -1,4 +1,9 @@
 <?php
+
+
+namespace Gutenisse;
+
+
 class Packagist
 {
 	public static function test()

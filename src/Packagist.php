@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Gutenisse;
+namespace Gutenisse\Packagist;
 
 
 class Packagist
